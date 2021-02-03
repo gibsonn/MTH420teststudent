@@ -27,3 +27,324 @@ Comments:
 
 -------------------------------------------------------------------------------
 
+01/29/21 22:07
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+ModuleNotFoundError: No module named 'calculator'
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+01/29/21 22:20
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+ModuleNotFoundError: No module named 'calculator'
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+01/29/21 22:26
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+ModuleNotFoundError: No module named 'calculator'
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+01/29/21 22:32
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+AttributeError: module 'calculator' has no attribute 'addition'
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+01/29/21 22:34
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+01/29/21 23:08
+
+AttributeError while loading 'standard_library.py': module 'calculator' has no attribute 'prod'
+
+-------------------------------------------------------------------------------
+
+01/29/21 23:08
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+01/29/21 23:09
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+02/01/21 23:15
+
+ValueError while loading 'standard_library.py': invalid literal for int() with base 10: 'TestStudent'
+
+-------------------------------------------------------------------------------
+
+02/01/21 23:25
+
+ValueError while loading 'standard_library.py': invalid literal for int() with base 10: 'TestStudent'
+
+-------------------------------------------------------------------------------
+
+02/01/21 23:27
+
+AttributeError while loading 'standard_library.py': module 'calculator' has no attribute 'prod'
+
+-------------------------------------------------------------------------------
+
+02/01/21 23:28
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+'Shut the box' does not match specifications
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+02/01/21 23:33
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+Score += 0
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+02/01/21 23:35
+
+ValueError while loading 'standard_library.py': invalid literal for int() with base 10: 'TestStudent'
+
+-------------------------------------------------------------------------------
+
+02/01/21 23:38
+
+Problem 1 (5 points):
+AttributeError: module 'TestStudent.StandardLibrary.standard_library' has no attribute 'prob1'
+
+Problem 2 (5 points):
+AttributeError: module 'TestStudent.StandardLibrary.standard_library' has no attribute 'prob2'
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+AttributeError: module 'TestStudent.StandardLibrary.standard_library' has no attribute 'power_set'
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+NotImplementedError: power_set() not found
+
+Total score: 25/50 = 50.0%
+
+-------------------------------------------------------------------------------
+
+02/01/21 23:39
+
+ValueError while loading 'standard_library.py': invalid literal for int() with base 10: 'TestStudent'
+
+-------------------------------------------------------------------------------
+
+02/01/21 23:39
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
